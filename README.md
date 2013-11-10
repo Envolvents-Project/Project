@@ -1,4 +1,4 @@
-EnvolventsRO - Project.
+EnvolventsRO - Project
 
 Staff:
 
@@ -7,5 +7,5 @@ Thiago Oliveira - Fargon
 Diego Pinheiro - Chiron
 
 Wellington - Scripter/Mapper/Sourcer/Database/Clients
-Thaigo Oliveira - Scripter/Mapper
+Thiago Oliveira - Scripter/Mapper
 Diego Pinheiro - Sourcer/Database/Clients
